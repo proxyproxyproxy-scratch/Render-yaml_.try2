@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: proxyproxyproxy
+    name: meitantei-proxy
     env: python
     region: Oregon
     plan: free
